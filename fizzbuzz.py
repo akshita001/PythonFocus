@@ -1,4 +1,5 @@
-# Question 1
+# Problem solving - Conditional statements usage in Python
+
 # Write a program that will take an user input number, display Fizz if it is divisble by 3,
 # display Buzz if it is divisible by 5, display FizzBuzz if it is divisible by 15 (5 and 3 both)
 # and finally displays the number itself if it neither falls into any of the above scenarios.
