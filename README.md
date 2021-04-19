@@ -1,3 +1,5 @@
-## ProblemSolving using Python
+# Python Programming Focus
 
-Basic Problem Solving using Python programming
+The repository contains learnings, concepts, examples, problem solving using Python
+
+
