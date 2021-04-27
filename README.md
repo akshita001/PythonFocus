@@ -9,3 +9,7 @@ The repository contains learnings, concepts, examples, problem solving using Pyt
 - [Check a word whether Palindrome or not](https://github.com/akshita001/PythonFocus/blob/main/isPalindrome.py)
 - [Check for Prime Number or not](https://github.com/akshita001/PythonFocus/blob/main/isPrimeNumber.py)
 
+### Python for Data Science - Cognitive Class examples
+- [Examples of Classes and Objects](https://github.com/akshita001/PythonFocus/blob/main/Python_ClassesAndObjects.ipynb)
+
+
