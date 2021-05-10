@@ -17,3 +17,8 @@ The repository contains learnings, concepts, examples, problem solving using Pyt
 - [Examples of Classes and Objects](https://github.com/akshita001/PythonFocus/blob/main/Python_ClassesAndObjects.ipynb)
 
 
+### Python CheatSheets for reference
+- [20 Cheatsheets from Python Data Science](https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science)
+
+
+
