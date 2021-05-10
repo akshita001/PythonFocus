@@ -19,6 +19,7 @@ The repository contains learnings, concepts, examples, problem solving using Pyt
 
 ### Python CheatSheets for reference
 - [20 Cheatsheets from Python Data Science](https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science)
+- [Cheatsheets with regards to Data Visualization](https://www.datavizualization.datasciencecentral.com/blog/cheat-sheet-data-visualization-in-python)
 
 
 
