@@ -1,4 +1,4 @@
-# Python Programming Focus
+# Python Programming
 
 The repository contains learnings, concepts, examples, problem solving using Python
 
