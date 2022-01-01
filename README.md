@@ -11,36 +11,36 @@ We use various Python Libraries or Packages for different type of tasks. We can 
    - SciPy: the fundamental algorithms for scientific computing in Python. [Site](https://scipy.org/) , [GitHub](https://github.com/scipy/scipy)
 - Data Manipulation, Data Wrangling, Data Processing tasks
    - pandas: [Site](https://pandas.pydata.org/) , [GitHub](https://github.com/pandas-dev/pandas)
-   - dask (https://github.com/dask/dask)
-   - apache spark (https://github.com/apache/spark)
+   - dask: [GitHub](https://github.com/dask/dask)
+   - apache spark: [GitHub](https://github.com/apache/spark)
 - Data Visualization related tasks
-   - matplotlib (https://github.com/matplotlib/matplotlib)
-   - plotly (https://github.com/plotly/plotly.py)
-   - seaborn (https://github.com/mwaskom/seaborn)
-   - bokeh (https://github.com/bokeh/bokeh)
+   - matplotlib: [Site](https://matplotlib.org/index.html) , [GitHub](https://github.com/matplotlib/matplotlib)
+   - plotly: [GitHub](https://github.com/plotly/plotly.py)
+   - seaborn: [GitHub](https://github.com/mwaskom/seaborn)
+   - bokeh: [GitHub](https://github.com/bokeh/bokeh)
 - Machine Learning tasks
-   - Scikit-Learn (https://github.com/scikit-learn/scikit-learn)
-   - XGBoost (https://github.com/dmlc/xgboost)
-   - LightGBM (https://github.com/microsoft/LightGBM)
-   - mlpack (https://github.com/mlpack/mlpack)
+   - Scikit-Learn: [GitHub](https://github.com/scikit-learn/scikit-learn)
+   - XGBoost: [GitHub](https://github.com/dmlc/xgboost)
+   - LightGBM: [GitHub](https://github.com/microsoft/LightGBM)
+   - mlpack: [GitHub](https://github.com/mlpack/mlpack)
    - StatsModels: [Site](https://www.statsmodels.org/devel/) , [GitHub](https://github.com/statsmodels/statsmodels)
-   - Dlib (https://github.com/davisking/dlib)
-   - Prophet (https://github.com/facebook/prophet)
+   - Dlib: [GitHub](https://github.com/davisking/dlib)
+   - Prophet: [GitHub](https://github.com/facebook/prophet)
 
 Later Advanced libraries can also be explored.
 
 - AutoEDA, AutoML tasks
-   - TPOT (https://github.com/EpistasisLab/tpot)
-   - auto-sklearn (https://github.com/automl/auto-sklearn)
-   - Optuna (https://github.com/optuna/optuna)
-   - pandas_profiling (https://github.com/pandas-profiling/pandas-profiling)
+   - TPOT: [GitHub](https://github.com/EpistasisLab/tpot)
+   - auto-sklearn: [GitHub](https://github.com/automl/auto-sklearn)
+   - Optuna: [GitHub](https://github.com/optuna/optuna)
+   - pandas_profiling: [GitHub](https://github.com/pandas-profiling/pandas-profiling)
    - DTale
    - dataprep
    - LUX
 - Explainability tasks
-   - Eli5 (https://github.com/TeamHG-Memex/eli5)
-   - LIME (https://github.com/marcotcr/lime)
-   - SHAPE (https://github.com/slundberg/shap)
+   - Eli5: [GitHub](https://github.com/TeamHG-Memex/eli5)
+   - LIME: [GitHub](https://github.com/marcotcr/lime)
+   - SHAPE: [GitHub](https://github.com/slundberg/shap)
 - Deep learning tasks
    - Tensorflow
    - PyTorch
@@ -50,7 +50,7 @@ Later Advanced libraries can also be explored.
    - SpaCy
    - Gensim
 - Data Scraping tasks
-   - Scrapy (https://scrapy.org/)
+   - Scrapy: [Site](https://scrapy.org/)
 
 ## Problem Solving Examples with Python
 
