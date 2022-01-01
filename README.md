@@ -6,13 +6,13 @@ The repository contains learnings, concepts, examples, problem solving using Pyt
 
 We use various Python Libraries or Packages for different type of tasks. We can categorize them into different tasks and understand which libraries are used for what purposes.
 
+- Math Operations specific tasks
+   - Numpy: the fundamental package of scientific computing. [Site](https://numpy.org/) [GitHub](https://github.com/numpy/numpy)
+   - scipy (https://github.com/scipy/scipy)
 - Data Manipulation, Data Wrangling, Data Processing tasks
    - pandas (https://github.com/pandas-dev/pandas)
    - dask (https://github.com/dask/dask)
    - apache spark (https://github.com/apache/spark)
-- Math Operations specific tasks
-   - numpy (https://github.com/numpy/numpy)
-   - scipy (https://github.com/scipy/scipy)
 - Data Visualization related tasks
    - matplotlib (https://github.com/matplotlib/matplotlib)
    - plotly (https://github.com/plotly/plotly.py)
