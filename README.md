@@ -27,6 +27,31 @@ We use various Python Libraries or Packages for different type of tasks. We can 
    - Dlib (https://github.com/davisking/dlib)
    - Prophet (https://github.com/facebook/prophet)
 
+Later Advanced libraries can also be explored.
+
+- AutoEDA, AutoML tasks
+   - TPOT (https://github.com/EpistasisLab/tpot)
+   - auto-sklearn (https://github.com/automl/auto-sklearn)
+   - Optuna (https://github.com/optuna/optuna)
+   - pandas_profiling (https://github.com/pandas-profiling/pandas-profiling)
+   - DTale
+   - dataprep
+   - LUX
+- Explainability tasks
+   - Eli5 (https://github.com/TeamHG-Memex/eli5)
+   - LIME (https://github.com/marcotcr/lime)
+   - SHAPE (https://github.com/slundberg/shap)
+- Deep learning tasks
+   - Tensorflow
+   - PyTorch
+   - Keras
+- NLP tasks
+   - NLTK
+   - SpaCy
+   - Gensim
+- Data Scraping tasks
+   - Scrapy (https://scrapy.org/)
+
 ## Problem Solving Examples with Python
 
 - [Fizzbuzz display problem solved](https://github.com/akshita001/PythonFocus/blob/main/fizzbuzz.py)
