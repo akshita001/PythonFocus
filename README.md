@@ -7,10 +7,10 @@ The repository contains learnings, concepts, examples, problem solving using Pyt
 We use various Python Libraries or Packages for different type of tasks. We can categorize them into different tasks and understand which libraries are used for what purposes.
 
 - Math Operations specific tasks
-   - Numpy: the fundamental package of scientific computing. [Site](https://numpy.org/) [GitHub](https://github.com/numpy/numpy)
-   - scipy (https://github.com/scipy/scipy)
+   - Numpy: the fundamental package of scientific computing. [Site](https://numpy.org/) , [GitHub](https://github.com/numpy/numpy)
+   - SciPy: the fundamental algorithms for scientific computing in Python. [Site](https://scipy.org/) , [GitHub](https://github.com/scipy/scipy)
 - Data Manipulation, Data Wrangling, Data Processing tasks
-   - pandas (https://github.com/pandas-dev/pandas)
+   - pandas: [Site](https://pandas.pydata.org/) , [GitHub](https://github.com/pandas-dev/pandas)
    - dask (https://github.com/dask/dask)
    - apache spark (https://github.com/apache/spark)
 - Data Visualization related tasks
@@ -23,7 +23,7 @@ We use various Python Libraries or Packages for different type of tasks. We can 
    - XGBoost (https://github.com/dmlc/xgboost)
    - LightGBM (https://github.com/microsoft/LightGBM)
    - mlpack (https://github.com/mlpack/mlpack)
-   - StatsModels (https://github.com/statsmodels/statsmodels)
+   - StatsModels: [Site](https://www.statsmodels.org/devel/) , [GitHub](https://github.com/statsmodels/statsmodels)
    - Dlib (https://github.com/davisking/dlib)
    - Prophet (https://github.com/facebook/prophet)
 
